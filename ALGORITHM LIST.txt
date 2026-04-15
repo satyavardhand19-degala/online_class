@@ -1,0 +1,36 @@
+https://aikaryashala.com/algorithm-tracer/
+
+ALGOITHM LISTS
+
+1.  SUM TWO NUMBERS                   Done
+2.  PRODUCT THREE NUMBERS             Done
+3.  NATURAL NUMBERS UPTO N            Done
+
+4.  EVEN NUMBERS UPTO N               Done
+5.  ODD NUMBERS UPTO N                Done
+6.  N EVEN NUMBERS 1                  Done
+7.  N EVEN NUMBERS 2                  Done
+8.  N ODD NUMBERS 1                   Done
+9.  N ODD NUMBERS 2                   Done
+10. SUM OF N NATURAL NUMBERS          Done
+11. SUM EVEN NUMBERS UPTO N           Done
+12. N MULTIPLES OF 7                  Done
+13. MULTIPLICATION TABLE              Done
+14. TABLE BOOK                        Done
+15. THE SERIES 1, 4, 9, 16 UPTO N     Done
+16. N THE SERIES 1, 4, 9, 16          Done
+17. MULTIPLY N POWER N TIMES          Done
+18. FACTORIAL                         Done
+19. SERIES 1, 4, 27, 256..... UPTO N  Done
+20. COMPARISION OF TWO NUMBERS 1      Done
+21. COMPARISION OF TWO NUMBERS 2      Done
+22. COMPARISION OF TWO NUMBERS 3      Done
+23. COMPARISION OF TWO NUMBERS 4      Done
+24. PRIME NUMBER 1                    Done
+25. PRIME NUMBER 2                    Done
+26. MAXIMUM OF THREE NUMBER 1         Done
+27. MAXIMUM OF THREE NUMBER 2         Done
+28. TO FIND TWO NUMBERS BY 
+    THIER SUM AND PRODUCT             Done         
+
+29. PRIME NUMBER 3

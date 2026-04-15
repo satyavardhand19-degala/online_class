@@ -1,0 +1,43 @@
+What is algorithm?
+it is a step-by-step process which other can solve the problem with specific solution.
+
+
+
+Principles: 
+
+1.End user experiance
+
+2.variables should be Meaningful.
+variables are should be first letters Capital 
+Ex: Num1, Count, Multipler, TableNumber etc,
+
+3.multiple solution
+
+4.nested loops 
+loop inside loop 
+
+5.no dulplicates
+
+6.Tracing
+
+
+Keywords:
+step, start, stop, read, print, if, goto should be small letters
+
+Algorithm order:
+step-1: start
+step-2: print "...................."
+step-3: read .....
+step-4: .......
+step-.: ....
+step-.: stop
+
+If you want to enter in next line then use "\n".
+
+In print statement is step : 
+print "Enter the number: "
+print "the sum of " + sum + "."
+
+In read: 
+read sum
+

@@ -1,0 +1,49 @@
+https://github.com/aikaryashala/algorithms
+
+git mv 
+git commit -m "renamed the filename"
+style50 factorial.py
+vim
+check50 --local aikaryashala/algorithms/aug-2025/max_of_two/py
+git add 
+git commit -m "space and statement changing"
+submit50 aikaryashala/algorithms/aug-2025/factorial/py
+
+sum
+product
+natural_numbers_up_to_n
+even_numbers_up_to_n
+odd_numbers_up_to_n
+n_even_numbers
+n_even_numbers_v2
+n_odd_numbers
+n_odd_numbers_v2
+sum_of_n_natural_numbers
+multiples_of_7
+square_series_up_to_n
+multiplication_table
+n_terms_in_square_series
+n_power_n_series_up_to_n
+n_power_n
+sum_of_even_up_to_n
+factorial
+max_of_two
+max_of_two_v2
+max_of_three
+max_of_three_v2
+
+
+comparision_two_numbers_v3
+comparision_two_numbers_v4
+sum_evennumbers
+even_odd
+N_sum_of_even_and_odd_numbers
+sum_of_even_and_odd_numbers_up_to_N
+table_book
+table_book_v2
+sum_and_product
+prime_numbers_v1
+prime_numbers_v2
+prime_numbers_v3
+
+
